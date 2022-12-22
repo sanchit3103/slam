@@ -1,3 +1,6 @@
+# Visual Inertial SLAM using Extended Kalman Filter
+
+
 Details to run the code:
 
 1) pr3_utils.py - Changes made in the file to include the x and y co-ordinates of the features and plot them along with the trajectory.
