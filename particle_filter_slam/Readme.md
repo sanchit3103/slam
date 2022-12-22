@@ -5,7 +5,7 @@ The project focuses on the methodology to implement Particle Filter SLAM using o
 </p>
 
 ## Project Report
-[Sanchit Gupta, 'Implementation of Particle Filter SLAM using Odometry, 2-D LiDAR Scans and Stereo Camera Measurements', ECE 276B, Course Project, UCSD](https://github.com/sanchit3103/slam/blob/main/particle_filter_slam/Report.pdf)
+[Sanchit Gupta, 'Implementation of Particle Filter SLAM using Odometry, 2-D LiDAR Scans and Stereo Camera Measurements', ECE 276A, Course Project, UCSD](https://github.com/sanchit3103/slam/blob/main/particle_filter_slam/Report.pdf)
 
 ## Project Implementation
 
